@@ -8,3 +8,7 @@ The focal point of this analysis is a medical insurance dataset, provided by Cod
 
 ## 2. Hurricane Analysis
 This is a led manipulation and analysis of the hurricane dataset provided by Codecademy. The main focus of the project included a preparation of the data as dictionaries and the subsequent handling of the dictionaries. 
+
+
+## 2. This is Jeopardy"
+Codecademy project with open-ended requirements. I to wrote several functions that investigate a dataset of Jeopardy! questions and answers. I filtered the dataset for topics that I was interested in, computed the average difficulty of those questions.
