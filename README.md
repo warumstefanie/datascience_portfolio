@@ -14,3 +14,7 @@ Codecademy project with open-ended requirements. I to wrote several functions th
 
 ## 4. EDA: Diagnosing Diabetes
 In this project, I looked at how certain diagnostic factors affect the diabetes outcome of women patients. I used my EDA skills to help inspect, clean, and validate the data.
+
+## 5. NBA Trends Project
+In this project, I analyzed data from the NBA (National Basketball Association) and explore possible associations. This included mean differences, pearson correlation, covariance and Chi-squared. Statistics are supported by boxplots, histograms and scatterplots.
+
